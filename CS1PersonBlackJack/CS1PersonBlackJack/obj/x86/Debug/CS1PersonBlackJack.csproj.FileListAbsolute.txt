@@ -1,0 +1,19 @@
+C:\Users\Lyle\Documents\Visual Studio 2010\Projects\CS1PersonBlackJack\CS1PersonBlackJack\bin\Debug\CS1PersonBlackJack.exe
+C:\Users\Lyle\Documents\Visual Studio 2010\Projects\CS1PersonBlackJack\CS1PersonBlackJack\bin\Debug\CS1PersonBlackJack.pdb
+C:\Users\Lyle\Documents\Visual Studio 2010\Projects\CS1PersonBlackJack\CS1PersonBlackJack\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Lyle\Documents\Visual Studio 2010\Projects\CS1PersonBlackJack\CS1PersonBlackJack\obj\x86\Debug\CS1PersonBlackJack.Form1.resources
+C:\Users\Lyle\Documents\Visual Studio 2010\Projects\CS1PersonBlackJack\CS1PersonBlackJack\obj\x86\Debug\CS1PersonBlackJack.Properties.Resources.resources
+C:\Users\Lyle\Documents\Visual Studio 2010\Projects\CS1PersonBlackJack\CS1PersonBlackJack\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Lyle\Documents\Visual Studio 2010\Projects\CS1PersonBlackJack\CS1PersonBlackJack\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Lyle\Documents\Visual Studio 2010\Projects\CS1PersonBlackJack\CS1PersonBlackJack\obj\x86\Debug\CS1PersonBlackJack.exe
+C:\Users\Lyle\Documents\Visual Studio 2010\Projects\CS1PersonBlackJack\CS1PersonBlackJack\obj\x86\Debug\CS1PersonBlackJack.pdb
+C:\Users\Lyle\Documents\Visual Studio 2010\Projects\CS1PersonBlackJack\CS1PersonBlackJack\obj\x86\Debug\CS1PersonBlackJack.DeckImages.resources
+C:\Users\Lyle\Documents\CS1PersonBlackJack\CS1PersonBlackJack\bin\Debug\CS1PersonBlackJack.exe
+C:\Users\Lyle\Documents\CS1PersonBlackJack\CS1PersonBlackJack\bin\Debug\CS1PersonBlackJack.pdb
+C:\Users\Lyle\Documents\CS1PersonBlackJack\CS1PersonBlackJack\obj\x86\Debug\CS1PersonBlackJack.csprojResolveAssemblyReference.cache
+C:\Users\Lyle\Documents\CS1PersonBlackJack\CS1PersonBlackJack\obj\x86\Debug\CS1PersonBlackJack.Form1.resources
+C:\Users\Lyle\Documents\CS1PersonBlackJack\CS1PersonBlackJack\obj\x86\Debug\CS1PersonBlackJack.Properties.Resources.resources
+C:\Users\Lyle\Documents\CS1PersonBlackJack\CS1PersonBlackJack\obj\x86\Debug\CS1PersonBlackJack.DeckImages.resources
+C:\Users\Lyle\Documents\CS1PersonBlackJack\CS1PersonBlackJack\obj\x86\Debug\CS1PersonBlackJack.csproj.GenerateResource.Cache
+C:\Users\Lyle\Documents\CS1PersonBlackJack\CS1PersonBlackJack\obj\x86\Debug\CS1PersonBlackJack.exe
+C:\Users\Lyle\Documents\CS1PersonBlackJack\CS1PersonBlackJack\obj\x86\Debug\CS1PersonBlackJack.pdb
